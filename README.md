@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pranith1Kumar.
+- 👋 Hi, I’m @Pranith Kumar.
 - 👀 I’m interested in AWS and DevOps.
 - 🌱 I’m currently learning DevOps tools.
 - 💞️ I’m looking to collaborate on AWS.
